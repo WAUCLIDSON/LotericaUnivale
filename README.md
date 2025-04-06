@@ -1,4 +1,4 @@
-# Lot-rica-Univale
+# Lotérica-Univale
 PORTFÓLIO DO SISTEMA DE ATENDIMENTO – CASA LOTÉRICA / UNIVALE
 ==============================================================
 
